@@ -1,0 +1,30 @@
+{
+  "name": "YAKUZA #35",
+  "description": "The Yakuza NFT collection consists of 5,555 freely minted NFT’s on the Ethereum blockchain. This collection was built to give back and to represent the strength that the collective community has within this NFT space.",
+  "image": "ipfs://QmfLUZpz8LYJZsjyHxGLZ6xSsLTYbkUo4tDoZWTXFK4nC6/35.png",
+  "dna": "2a2b5d7b60a55b4ffa5457bb078aaa8882d77c53",
+  "edition": 35,
+  "date": 1646838646514,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Grey Longsleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Yellow Eyes"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brown Dreads"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Serious"
+    }
+  ]
+}
